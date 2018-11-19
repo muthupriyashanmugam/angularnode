@@ -2,7 +2,7 @@
   "name": "angularnode",
   "version": "1.0.0",
   "description": "Sample application for angular with node",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +19,30 @@
   "bugs": {
     "url": "https://github.com/muthupriyashanmugam/angularnode/issues"
   },
-  "homepage": "https://github.com/muthupriyashanmugam/angularnode#readme"
+  "homepage": "https://github.com/muthupriyashanmugam/angularnode#readme",
+  "dependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/compiler": "^7.0.0",
+    "@angular/core": "^7.0.0",
+    "@angular/forms": "^7.0.0",
+    "@angular/http": "^7.0.0",
+    "@angular/platform-browser": "^7.0.0",
+    "@angular/platform-browser-dynamic": "^7.0.0",
+    "@angular/router": "^7.0.0",
+    "del": "^3.0.0",
+    "express": "^4.16.4",
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-template": "^5.0.0",
+    "gulp-typescript": "^5.0.0-alpha.3",
+    "lodash": "^4.17.11",
+    "path": "^0.12.7",
+    "reflect-metadata": "^0.1.3",
+    "rxjs": "^6.0.0",
+    "systemjs": "^2.1.1",
+    "typescript": "^3.1.6",
+    "zone.js": "^0.8.26"
+  }
 }
