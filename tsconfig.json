@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "declaration": false,
+      "noImplicitAny": false,
+      "removeComments": true,
+      "noLib": false,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "sourceMap": true,
+      "skipLibCheck": true
+    },
+    "exclude": [
+      "node_modules",
+      "typings/browser.d.ts",
+      "typings/browser/**"
+    ],
+    "compileOnSave": false,
+    "filesGlob": [
+      "public/*.ts",
+      "public/**/*.ts"
+    ]
+  }
+  
