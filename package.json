@@ -1,0 +1,23 @@
+{
+  "name": "angularnode",
+  "version": "1.0.0",
+  "description": "Sample application for angular with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muthupriyashanmugam/angularnode.git"
+  },
+  "keywords": [
+    "angular4/5/6",
+    "node"
+  ],
+  "author": "MuthupriyaArun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muthupriyashanmugam/angularnode/issues"
+  },
+  "homepage": "https://github.com/muthupriyashanmugam/angularnode#readme"
+}
